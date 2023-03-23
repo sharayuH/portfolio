@@ -153,7 +153,7 @@ const About = () => {
               <a href="https://pict.edu/" target="_blank" rel="noreferrer">
                 Pune Institute of Computer Technology
               </a>
-              .<div>2029-2023 | CGPA: 9.63/10</div>
+              .<div>2019-2023 | CGPA: 9.63/10</div>
             </p>
             <p>
               My previous education:

@@ -10,6 +10,5 @@ tech:
   - PHP
   - Algolia
   - JS
-# company: 'Upstatement'
 showInProjects: false
 ---

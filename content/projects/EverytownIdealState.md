@@ -8,6 +8,5 @@ tech:
   - Timber
   - PHP
   - Airtable API
-# company: 'Upstatement'
 showInProjects: false
 ---

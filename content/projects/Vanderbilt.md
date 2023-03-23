@@ -7,6 +7,5 @@ tech:
   - Twig
   - Puppy
   - JS
-# company: 'Upstatement'
 showInProjects: false
 ---

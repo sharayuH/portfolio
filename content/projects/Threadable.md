@@ -8,6 +8,5 @@ tech:
   - React Native
   - Ruby on Rails
   - Firebase
-# company: 'Upstatement'
 showInProjects: false
 ---

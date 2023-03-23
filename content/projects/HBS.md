@@ -7,6 +7,5 @@ tech:
   - Storybook
   - React
   - TypeScript
-# company: 'Upstatement'
 showInProjects: false
 ---

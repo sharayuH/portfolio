@@ -8,7 +8,6 @@ tech:
   - Cordova
   - Backbone
   - Marionette
-# company: 'Starry'
 showInProjects: true
 ---
 

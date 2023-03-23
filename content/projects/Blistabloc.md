@@ -7,7 +7,6 @@ tech:
   - WordPress
   - Timber
   - WooCommerce
-# company: 'Scout'
 showInProjects: false
 ---
 

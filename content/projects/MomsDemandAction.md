@@ -9,6 +9,5 @@ tech:
   - NativeScript Vue
   - iOS
   - Android
-# company: 'Upstatement'
 showInProjects: false
 ---

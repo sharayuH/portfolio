@@ -7,7 +7,6 @@ tech:
   - Gatsby
   - TypeScript
   - Algolia
-# company: 'Upstatement'
 showInProjects: false
 ---
 

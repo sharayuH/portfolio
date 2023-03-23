@@ -11,6 +11,5 @@ tech:
   - JS
   - Mailchimp
   - AMP
-# company: 'Upstatement'
 showInProjects: false
 ---

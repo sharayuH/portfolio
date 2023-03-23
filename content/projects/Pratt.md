@@ -9,6 +9,5 @@ tech:
   - WordPress Multisite
   - Gutenberg
   - JS
-# company: 'Upstatement'
 showInProjects: false
 ---

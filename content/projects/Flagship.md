@@ -6,7 +6,6 @@ external: 'https://www.flagshippioneering.com/'
 tech:
   - Craft CMS
   - Chart.js
-# company: 'Upstatement'
 showInProjects: false
 ---
 

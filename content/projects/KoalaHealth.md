@@ -13,6 +13,5 @@ tech:
   - Formik
   - Yup
   - Vercel
-# company: 'Upstatement'
 showInProjects: false
 ---

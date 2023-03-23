@@ -8,7 +8,6 @@ tech:
   - Node
   - Express
   - MongoDB
-# company: 'Northeastern'
 showInProjects: false
 ---
 

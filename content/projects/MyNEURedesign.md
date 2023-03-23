@@ -7,7 +7,6 @@ tech:
   - Jekyll
   - SCSS
   - JS
-# company: 'Northeastern'
 showInProjects: false
 ---
 

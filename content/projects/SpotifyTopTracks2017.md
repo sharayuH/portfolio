@@ -6,7 +6,6 @@ external: ''
 tech:
   - R
   - Spotify Web API
-# company: 'Northeastern'
 showInProjects: false
 ---
 

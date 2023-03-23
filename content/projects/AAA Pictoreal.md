@@ -4,7 +4,6 @@ title: 'Smart India Hackathon - 2022'
 external: 'https://www.sih.gov.in/'
 tech:
   - Among the top 5 teams out of 98 teams
-# company: 'Smart India Hackathon - 2022'
 showInProjects: true
 ---
 

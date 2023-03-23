@@ -7,6 +7,5 @@ tech:
   - React
   - TypeScript
   - Stats Perform API
-# company: 'Upstatement'
 showInProjects: false
 ---

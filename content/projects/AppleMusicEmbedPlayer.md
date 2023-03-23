@@ -5,7 +5,7 @@ github: ''
 external: 'https://pictoreal.in/'
 tech:
   - Annual Magazine Club of PICT
-company: 'Upstatement'
+# company: 'Upstatement'
 showInProjects: true
 ---
 

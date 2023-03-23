@@ -6,6 +6,6 @@ external: 'https://toolkit.michelleforboston.com/'
 tech:
   - Gatsby
   - Styled Components
-company: 'Upstatement'
+# company: 'Upstatement'
 showInProjects: false
 ---

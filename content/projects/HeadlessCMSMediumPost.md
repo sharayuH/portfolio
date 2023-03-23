@@ -5,7 +5,7 @@ github: ''
 external: 'https://ion-athon.hackerearth.com/'
 tech:
   - Among one of the top 200 teams amongst 2875 teams
-company: 'ION<athon> 1.0'
+# company: 'ION<athon> 1.0'
 showInProjects: true
 ---
 

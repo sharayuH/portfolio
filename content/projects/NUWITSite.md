@@ -6,7 +6,7 @@ external: 'https://nuwit.ccs.neu.edu/'
 tech:
   - Jekyll
   - Bootstrap
-company: 'Northeastern'
+# company: 'Northeastern'
 showInProjects: true
 ---
 

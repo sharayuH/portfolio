@@ -8,7 +8,7 @@ tech:
   - SCSS
   - JS
   - jQuery
-company: 'MullenLowe'
+# company: 'MullenLowe'
 showInProjects: false
 ---
 

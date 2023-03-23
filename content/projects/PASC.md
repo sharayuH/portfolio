@@ -6,7 +6,7 @@ external: 'https://pict.acm.org/'
 tech:
   - ACM India Best Student Chapter Award
 Winner for 5 years
-company: 'PICT ACM Student Chapter'
+# company: 'PICT ACM Student Chapter'
 showInProjects: true
 ---
 

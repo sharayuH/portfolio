@@ -7,6 +7,6 @@ tech:
   - Nuxt
   - Vue
   - Prismic
-company: 'Upstatement'
+# company: 'Upstatement'
 showInProjects: false
 ---

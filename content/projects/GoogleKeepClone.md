@@ -1,12 +1,14 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'Pictoreal'
+github: ''
+external: 'https://pictoreal.in/'
 tech:
-  - Vue
-  - Firebase
+  - Annual Magazine Club of PICT
+company: 'Upstatement'
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+<!-- Conducts various events in arts, literature and philanthropy. -->
+
+**Magazine Secretary** | Sep’22 - Present

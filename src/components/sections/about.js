@@ -125,7 +125,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Web Development',
+    'ReactJS',
+    'MongoDB',
+    'MySQL',
+    'Problem Solving',
+    'Object Oriented Programming',
+    'Python, C++',
+    'Natural Language Processing',
+    'Cloud AWS',
+    'Git',
+    'Figma',
+    'Graphic Design',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,13 +148,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Sharayu Hiwarkhedkar. I'm currently a final-year computer
+              engineering student at
+              <a href="https://pict.edu/" target="_blank" rel="noreferrer">
+                Pune Institute of Computer Technology
+              </a>
+              .<div>2029-2023 | CGPA: 9.63/10</div>
+            </p>
+            <p>
+              My previous education:
+              <div>HSC 2019 | Taywade Junior College | 89.08% </div>
+              <div>SSC 2017 | St. Joseph's Convent, Nagpur | 97.40% </div>
             </p>
 
-            <p>
+            {/* <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
               <a href="https://starry.com/">a start-up</a>,{' '}
@@ -159,7 +179,7 @@ const About = () => {
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
-            </p>
+            </p> */}
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

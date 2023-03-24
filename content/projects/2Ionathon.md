@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '5'
 title: 'ION<athon> 1.0'
 github: ''
 external: 'https://ion-athon.hackerearth.com/'

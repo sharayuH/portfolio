@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '4'
 title: 'PICT ACM Student Chapter'
 github: ''
 external: 'https://pict.acm.org/'

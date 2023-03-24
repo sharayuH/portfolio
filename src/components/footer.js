@@ -107,9 +107,9 @@ const Footer = () => {
       <StyledCredit tabindex="-1">
         <a href="https://github.com/bchiang7/v4">
           {/* <div>Designed &amp; Built by Brittany Chiang</div> */}
-          <div style={{ height: '20px' }}>
+          {/* <div style={{ height: '20px' }}>
             <Icon name="Fork" style={{ innerHeight: '10px' }} />
-          </div>
+          </div> */}
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>

@@ -6,7 +6,7 @@ module.exports = {
     description: 'Sharayu Hiwarkhedkar is a computer science enthusiast.',
     siteUrl: 'https://sharayu-h.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@SharayuHiwarkh1',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

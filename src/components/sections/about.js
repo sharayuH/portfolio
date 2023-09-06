@@ -148,17 +148,17 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sharayu Hiwarkhedkar. I'm currently a final-year computer
-              engineering student at
+              Hello! My name is Sharayu Hiwarkhedkar. I'm an SDE at Siemens Digital Industries
+              Softaware.
+            </p>
+            <p>
+              My previous education:
               <a href="https://pict.edu/" target="_blank" rel="noreferrer">
                 Pune Institute of Computer Technology
               </a>
               .<div>2019-2023 | CGPA: 9.63/10</div>
-            </p>
-            <p>
-              My previous education:
-              <div>HSC 2019 | Taywade Junior College | 89.08% </div>
-              <div>SSC 2017 | St. Joseph's Convent, Nagpur | 97.40% </div>
+              {/* <div>HSC 2019 | Taywade Junior College | 89.08% </div>
+              <div>SSC 2017 | St. Joseph's Convent, Nagpur | 97.40% </div> */}
             </p>
 
             {/* <p>

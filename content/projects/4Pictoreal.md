@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-**Magazine Secretary** | Sep’22 - Present
+**Magazine Secretary** | Sep’22 - Jul'23

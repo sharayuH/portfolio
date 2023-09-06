@@ -8,4 +8,4 @@ tech:
 showInProjects: true
 ---
 
-**Public Relations Officer** | Mar’22 - Present
+**Public Relations Officer** | Mar’22 - Mar'23

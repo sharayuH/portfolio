@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'AgroStats'
 cover: './demo.png'
 github: 'https://github.com/sharayuH/AgroStats-FarmerPortal'

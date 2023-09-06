@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Stock-Exact'
 cover: './halcyon.png'
 github: 'https://github.com/sharayuH/Stock-Exact'

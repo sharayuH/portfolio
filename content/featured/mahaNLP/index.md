@@ -12,4 +12,4 @@ tech:
   - Paper Writing
 ---
 
-mahaNLP is a python-based natural language processing library focused on the Indian language Marathi. It provides an easy interface for NLP features like sentiment analysis, named entity recognition, hate speech detection, etc. exclusively for Marathi text.
+The mahaNLP is a python-based natural language processing library focused on the Indian language Marathi. It provides an easy interface for NLP features like sentiment analysis, named entity recognition, hate speech detection, etc. exclusively for Marathi text.

@@ -131,12 +131,12 @@ const About = () => {
     'MongoDB',
     'MySQL',
     'Problem Solving',
+    'Data Structures and Algorithms',
     'Object Oriented Programming',
     'Python, C++',
     'Natural Language Processing',
     'Cloud AWS',
     'Git',
-    'Figma',
     'Graphic Design',
   ];
 
@@ -152,11 +152,11 @@ const About = () => {
               Softaware.
             </p>
             <p>
-              My previous education:
+              My previous education: &nbsp;
               <a href="https://pict.edu/" target="_blank" rel="noreferrer">
                 Pune Institute of Computer Technology
               </a>
-              .<div>2019-2023 | CGPA: 9.63/10</div>
+              .<div>2019-2023 | CGPA: 9.58/10</div>
               {/* <div>HSC 2019 | Taywade Junior College | 89.08% </div>
               <div>SSC 2017 | St. Joseph's Convent, Nagpur | 97.40% </div> */}
             </p>

@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'mahaNLP'
-cover: './mahanlp.png'
+cover: './../images/mahanlp.png'
 github: 'https://github.com/l3cube-pune/MarathiNLP'
 external: 'https://pypi.org/project/mahaNLP/'
 tech:

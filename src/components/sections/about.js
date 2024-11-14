@@ -133,7 +133,12 @@ const About = () => {
     'Problem Solving',
     'Data Structures and Algorithms',
     'Object Oriented Programming',
-    'Python, C++',
+    'Python',
+    'C++',
+    'Java',
+    'Spring Boot',
+    'Clickhouse',
+    'Spark',
     'Natural Language Processing',
     'Cloud AWS',
     'Git',
@@ -148,8 +153,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sharayu Hiwarkhedkar. I'm an SDE at Siemens Digital Industries
-              Softaware.
+              Hello! My name is Sharayu Hiwarkhedkar. I'm an Software Engineer at DeepIntent,
+              ex-Siemens DISW.
             </p>
             <p>
               My previous education: &nbsp;

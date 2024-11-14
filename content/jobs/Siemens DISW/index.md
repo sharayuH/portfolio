@@ -3,7 +3,7 @@ date: '4'
 title: 'Software Developer'
 company: 'Siemens DISW'
 location: 'Pune, Maharashtra'
-range: 'January 2023 - Present'
+range: 'January 2023 - March 2024'
 url: 'https://www.sw.siemens.com/en-US/'
 ---
 

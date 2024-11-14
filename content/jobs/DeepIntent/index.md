@@ -8,4 +8,4 @@ url: 'https://www.deepintent.com/'
 ---
 
 - Working on one of the leading Ad-Tech Platform of DeepIntent.
-- Writing various data pipelines and working on the data maze.
+- Writing various data pipelines and working on the data mazes.

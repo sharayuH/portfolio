@@ -7,5 +7,5 @@ range: 'March 2024 - Present'
 url: 'https://www.deepintent.com/'
 ---
 
-- Working on the one of the leading Ad-Tech Platform of DeepIntent.
+- Working on one of the leading Ad-Tech Platform of DeepIntent.
 - Writing various data pipelines and working on the data maze.
